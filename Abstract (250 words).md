@@ -1,9 +1,9 @@
-### Objective
+## Objective
 
-### Materials and Methods
+## Materials and Methods
 
-### Results
+## Results
 
-### Discussion
+## Discussion
  
-### Conclusion
+## Conclusion

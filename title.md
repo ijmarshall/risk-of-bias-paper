@@ -1,1 +1,1 @@
-Automated risk of bias scoring for clinical trials---validation study
+Automated risk of bias scoring for clinical trials--validation study
